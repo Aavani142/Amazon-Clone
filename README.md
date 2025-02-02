@@ -1,17 +1,5 @@
 # Amazon-Clone
 
-A static **Amazon Clone** built using **HTML & CSS**, replicating the core UI of Amazon's homepage with a responsive and modern design.
-
-## 📌 Live Preview
-# 🛒 Amazon Clone
-
-A static **Amazon Clone** built using **HTML & CSS**, replicating the core UI of Amazon's homepage with a responsive and modern design.
-
-## 📌 Live Preview
-# 🛒 Amazon Clone
-
-A static **Amazon Clone** built using **HTML & CSS**, replicating the core UI of Amazon's homepage with a responsive and modern design.
-
 ## 📌 Live Preview
 https://amazon-clone-zeta-kohl-84.vercel.app/
 
